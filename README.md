@@ -13,7 +13,7 @@ A Powerful tool to create fake information related to "Everything"! It works on 
 1)git clone https://github.com/b3tar00t/Xmper
 2)cd
 3)ls
-4)pip install -r requirements.txt
+4) python3 -m pip install -r requirements.txt
 5)python3 xmper.py
 
 ## Note
